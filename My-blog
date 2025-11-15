@@ -1,0 +1,1227 @@
+<!Doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Hassan's Blog</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <!-- HEADER -->
+         <header>
+            <h1 class="logo">Hassan's Blog</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html" class="active">Home</a></li>
+                    <li><a href="about.html">about</a></li>
+                    <li><a href="blog.html">Blog</a></li>
+                    <li><a href="contact.html">contact</a></li>
+                </ul>
+            </nav>
+         </header>
+
+        <!-- HERO -->
+          <section class="hero">
+            <h2>Welcome to My World</h2>
+            <p>Sharing ideas, stories, and experience that inspire others.</p>
+            <a href="blog.html" class="btn>Read My Posts"</a>
+          </section>
+
+        <!-- FOOTER -->
+         <footer>
+          <p>© 2025 Hassan Mohamed | All Right Reserved</p>
+         </footer>
+     </body>
+     </html>
+
+<!Doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About | Hassan's Blog</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- HEADER -->
+     <header>
+        <h1 class="logo">Hassan's Blog</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html" class="active">About</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+     </header>
+
+     <!-- ABOUT SECTION -->
+      <section class="about">
+        <div class="container">
+            <img src="images/DSC_2401 copy.jpg" alt="Hassan's photo" class="about-img">
+            <div class="about-text">
+                <h2>About Me</h2>
+                <p> Hello! I am Hassan Mohamed -- a passionate learner, dreamer, and storyteller. I started this blog to share my journey of growth, learning, and my experience along the way. My goal is to inspire people from every background to chase their dreams and believe in their potential.</p>
+                <p> When I'm not coding, I spend my time in English writing, listening to podcasts and. I love exploring new cultures, meeting interesting people, and learning something new every day.</p>
+                <p> But What I don't like is when I have a brilliant idea during the shower, and forget it as soon as I step out.😁💗⚡</p>
+            </div>
+        </div>
+      </section>
+
+      <!-- FOOTER -->
+       <footer>
+        <p>© 2025 Hassan Mohamed | All Right Reserved</p>
+       </footer>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Blog | Hassan's Blog</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1 class="logo">Hassan's Blog</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="blog.html" class="active">Blog</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="blog">
+    <h2>Latest Posts</h2>
+
+
+<!-- Search Bar -->
+<div class="search-bar">
+  <input type="text" id="searchInput" placeholder="Search blog posts...">
+</div>
+
+<div class="blog-container">
+  <!-- your blog cards here -->
+</div>
+
+    <div class="blog-grid">
+
+      <div class="blog-card">
+        <img src="images/0009.gif" alt="Post 1">
+        <h3>Starting My Journey in Web Development</h3>
+        <p>The beginning of the long way of learning programming, until reaching to the highest goal of becoming a great coder. </p>
+        <a href="post.html" class="btn">Read More</a>
+      </div>
+
+      <div class="blog-card">
+        <img src="images/library-face.gif" alt="Post 2">
+        <h3>The Power Of Reading</h3>
+        <p>Reading opens the mind and sparks imagination.
+           It helps us learn, dream, and grow every day..</p>
+        <a href="post2.html" class="btn">Read More</a>
+      </div>
+
+      <div class="blog-card">
+        <img src="images/Cairo-Egypt.webp" alt="Post 3">
+        <h3>Lessons During My Time in Egypt</h3>
+        <p>How working and living in Egypt for five years shaped my mindset and ambition.</p>
+        <a href="post3.html" class="btn">Read More</a>
+      </div>
+
+    </div>
+  </section>
+  
+   <div class="blog-grid">
+
+        <div class="blog-card">
+        <img src="images/SolidLogo.jpeg" alt="Post 4">
+        <h3>Metal Cutting and Fabrication Solutions with Precision</h3>
+        <p>SolidForm is a leading company in export, manufacturing, and supply solution. Explore our services to discover how we deliver excellence in global trade and production. </p>
+        <a href="post4.html" class="btn">Read More</a>
+      </div>
+
+      <div class="blog-card">
+        <img src="images/art.jpg" alt="Post 5">
+        <h3>شعر و خواطر</h3>
+        <p>
+          فِي غَدٍ يعرفُ عنّا القادمُون
+             أيّ حُبِّ قد حَملناهُ لهم
+           فِي غَدٍ يَحسِبُ منهم حَاسبُون
+           كم أيادٍ أسلفَت مِنَّا لهم
+            فِي غَدٍ سَحكُون عَن أنَّاتنا
+          وَعَنِ الأَحزَانِ في أبياتنا
+          وَعَنِ الجُرحِ الذي غنّى لهُم
+        </p>
+
+        <a href="post5.html" class="btn">Read More</a>
+      </div>
+
+      <div class="blog-card">
+        <img src="images/geography.gif" alt="Post 6">
+        <h3>Geography - Understanding Our World</h3>
+        <p>Geography helps us understand the Earth's landscapes, climates,
+           and people. It shows how the world is connected and why every place is unique.</p>
+
+           
+        <a href="post6.html" class="btn">Read More</a>
+      </div>
+
+    </div>
+  </section>
+  
+  <footer>
+    <p>© 2025 Hassan Mohamed | All Rights Reserved</p>
+  </footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Contact | Hassan's Blog</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+
+        <header>
+            <h1 class="logo">Hassan's Blog</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="blog.html">Blog</a></li>
+                    <li><a href="contact.html" class="active">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <section class="contact">
+            <h2> Contact Me</h2>
+            <form>
+                <input type="text" placeholder="Your Name" required>
+                <input type="Email" placeholder="Your Email" required>
+                <textarea rows="5" placeholder="Your Message" required></textarea>
+                <button type="submit" class="btn">Send Message</button>
+            </form>
+        </section>
+
+        <footer>
+            <p>© 2025 Hassan Mohamed | All Right Reserved</p>
+        </footer>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title> Single post | Hassan's Blog</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+
+        <!-- HEADER -->
+         <header>
+            <h1 class="logo">Hassan's Blog</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">about</a></li>
+                    <li><a href="blog.html">Blog</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+         </header>
+
+         <!-- SINGLE POST SECTION -->
+          <main class="post-page">
+            <class="post-container">
+                <img src="images/highQuality.gif" alt="post Image" class="post-img">
+                <h2 class="post-title">Starting My Journey in web Development</h2>
+                <p class="post-date">Posted on November 12, 2025 by Hassan Mohamed</p>
+
+                <p>
+                  Learning programming is more than just technical skill; it's a way train your mind and give you the abitlity to expand in every way. 
+                  This the first creative web project I've done so far with HTML & CSS. still it's along way until complete Frontend and jump inot the
+                  Backend, all what we need is just to keep going.
+                </p>
+
+                <p>
+                     What really helped is breaking down every small concept ــ Understanding how each tag, and property worked,
+                    I learned that the best way to grow is building real projects, one step at a time.
+                </p>
+
+                <p>
+                    My advice to beginners like me: Don't rush, celebrate small wins, stay curious, and always keep expirementing,
+                    every line of code you write is a step forward.
+                </p>
+
+                <!-- 💡 Related Posts Section -->
+                <section class="related-posts">
+                 <h3>Related Posts</h3>
+                 <div class="related-container">
+                   <div class="related-item">
+                     <img src="images/egypt.jpg" alt="Lessons">
+                     <h4>Lessons During My Time In Egypt</h4>
+                     <a href="post3.html" class="btn">Read More</a>
+                   </div>
+                 </div>
+               </section>
+
+                <a href="blog.html" class="btn">← Back to Blog</a>
+              </main>
+
+                <!-- COMMENTS SECTION -->
+<section class="comments">
+  <div class="comments-container">
+    <h3>Leave a Comment</h3>
+
+    <form class="comment-form">
+      <input type="text" placeholder="Your Name" required>
+      <textarea rows="4" placeholder="Your Comment" required></textarea>
+      <button type="submit" class="btn">Post Comment</button>
+    </form>
+
+    <div class="comment-list">
+      <h4>Recent Comments</h4>
+
+      <div class="comment">
+        <p class="comment-name"><strong>Ali:</strong></p>
+        <p class="comment-text">This post really motivated me! Thanks for sharing your journey, Hassan.</p>
+      </div>
+
+      <div class="comment">
+        <p class="comment-name"><strong>Sara:</strong></p>
+        <p class="comment-text">I just started learning HTML too — this gives me hope!</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+          <!-- FOOTER -->
+  <footer>
+    <p>© 2025 Hassan Mohamed | All Rights Reserved</p>
+  </footer>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title> Single post | Hassan's Blog</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+
+        <!-- HEADER -->
+         <header>
+            <h1 class="logo">Hassan's Blog</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">about</a></li>
+                    <li><a href="blog.html">Blog</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+         </header>
+
+         <!-- SINGLE POST SECTION -->
+          <main class="post-page">
+            <class="post-container">
+                <img src="images/reading2.jpg" alt="post Image" class="post-img">
+                <h2 class="post-title">The Power Of Reading</h2>
+                <p class="post-date">Posted on November 6, 2025 by Hassan Mohamed</p>
+
+                <p>
+                    Reading is one of the most powerful tools for personal growth and knowledge. It opens doors to new ideas,
+                    cultures, and perspectives that help people understand the world around them. Through reading, we can
+                    travel to different places, experience other lives, and learn from the wisdom of great thinkers without ever
+                    leaving our homes. It is a gateway to endless learning and self-discovery.
+                </p>
+
+                <p>
+                    Moreover, reading strengthens the mind and improves critical thinking. It helps develop focus, vocabulary,
+                    and creativity while also expanding imagination. When we read regularly, we train our brains to analyze,
+                    question, and connect ideas — skills that are essential for success in education and life. Every book we read
+                    sharpens our ability to think deeply and express ourselves clearly.
+                </p>
+
+                <p>
+                    Finally, reading has the power to inspire and heal. Books can comfort us in difficult times, motivate us to
+                    chase our dreams, and teach us important lessons about kindness and perseverance. In every page, there is a
+                    chance to grow wiser, more empathetic, and more aware of ourselves and others. Through reading, we not
+                    only gain knowledge but also build a stronger and more compassionate heart.
+                </p>
+
+                                <!-- 💡 Related Posts Section -->
+                <section class="related-posts">
+                 <h3>Related Posts</h3>
+                 <div class="related-container">
+                   <div class="related-item">
+                     <img src="images/art.jpg" alt="art">
+                     <h4>شعر و خواطر</h4>
+                     <a href="post5.html" class="btn">Read More</a>
+                   </div>
+                 </section>
+
+
+                <a href="blog.html" class="btn">← Back to Blog</a>
+
+                <!-- COMMENTS SECTION -->
+<section class="comments">
+  <div class="comments-container">
+    <h3>Leave a Comment</h3>
+
+    <form class="comment-form">
+      <input type="text" placeholder="Your Name" required>
+      <textarea rows="4" placeholder="Your Comment" required></textarea>
+      <button type="submit" class="btn">Post Comment</button>
+    </form>
+
+    <div class="comment-list">
+      <h4>Recent Comments</h4>
+
+      <div class="comment">
+        <p class="comment-name"><strong>Susan:</strong></p>
+        <p class="comment-text">This is such an inspiring piece! It beautifully captures how reading can shape our minds and open our hearts to new experiences.</p>
+      </div>
+
+      <div class="comment">
+        <p class="comment-name"><strong>Ahmed:</strong></p>
+        <p class="comment-text">I love how clearly this explains the true value of reading — it reminds me why books are such powerful companions in life.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+          <!-- FOOTER -->
+  <footer>
+    <p>© 2025 Hassan Mohamed | All Rights Reserved</p>
+  </footer>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title> Single post | Hassan's Blog</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+
+        <!-- HEADER -->
+         <header>
+            <h1 class="logo">Hassan's Blog</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">about</a></li>
+                    <li><a href="blog.html">Blog</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+         </header>
+
+         <!-- SINGLE POST SECTION -->
+          <main class="post-page">
+            <class="post-container">
+                <img src="images/egy2.webp" alt="post Image" class="post-img">
+                <h2 class="post-title">Lessons During My Time In Egypt</h2>
+                <p class="post-date">Posted on October 25, 2025 by Hassan Mohamed</p>
+
+                <p>
+                    Living and working in Egypt for five years has been one of the most defining experiences of my life. It taught
+                    me the value of hard work, patience, and resilience in the face of challenges. Every day brought new lessons
+                    about adapting to a different culture, understanding peoples struggles, and appreciating the small things
+                    that make life meaningful. Egypt became more than just a place to live — it became a classroom that shaped
+                    my character and outlook.
+                </p>
+
+                <p>
+                    Through my work experience, I learned that success doesn't come overnight but through consistent effort
+                    and determination. I saw how people worked tirelessly to support their families and grinding to make their life
+                    better, and that inspired me to stay committed to my own goals. The challenges I have faced through the years 
+                    helped me realize that no dream is too far when you are willing to keep pushing forward.
+                </p>
+
+                <p>
+                    Most importantly, my time in Egypt strengthened my ambition to build a better future and help others. It
+                    showed me that progress begins with belief in oneself and the courage to start, even with limited resources. I
+                    learned to see every hardship as an opportunity to grow and every failure as a lesson in disguise. Egypt gave
+                    me not only experience but also a renewed purpose — to keep striving, learning, and inspiring others to rise
+                    above their circumstances.
+                </p>
+
+                                                <!-- 💡 Related Posts Section -->
+                <section class="related-posts">
+                 <h3>Related Posts</h3>
+                 <div class="related-container">
+                   <div class="related-item">
+                     <img src="images/SolidLogo.jpeg" alt="art">
+                     <h4>Solid - Your Best Choice</h4>
+                     <a href="post4.html" class="btn">Read More</a>
+                   </div>
+                 </section>
+
+
+                <a href="blog.html" class="btn">← Back to Blog</a>
+
+                <!-- COMMENTS SECTION -->
+<section class="comments">
+  <div class="comments-container">
+    <h3>Leave a Comment</h3>
+
+    <form class="comment-form">
+      <input type="text" placeholder="Your Name" required>
+      <textarea rows="4" placeholder="Your Comment" required></textarea>
+      <button type="submit" class="btn">Post Comment</button>
+    </form>
+
+    <div class="comment-list">
+      <h4>Recent Comments</h4>
+
+      <div class="comment">
+        <p class="comment-name"><strong>Ibrahim Adam:</strong></p>
+        <p class="comment-text">This really inspired me to pick up reading more often—thank you for sharing such a thoughtful perspective!.</p>
+      </div>
+
+      <div class="comment">
+        <p class="comment-name"><strong>Sami:</strong></p>
+        <p class="comment-text">I loved how you connected your experiences to your personal growth. Very motivating!.</p>
+      </div>
+
+      <div class="comment">
+        <p class="comment-name"><strong>Sona:</strong></p>
+        <p class="comment-text">This really inspired me to read more and see the world in a new way!.</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+          <!-- FOOTER -->
+  <footer>
+    <p>© 2025 Hassan Mohamed | All Rights Reserved</p>
+  </footer>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title> Single post | Hassan's Blog</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+
+        <!-- HEADER -->
+         <header>
+            <h1 class="logo">Hassan's Blog</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">about</a></li>
+                    <li><a href="blog.html">Blog</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+         </header>
+
+         <!-- SINGLE POST SECTION -->
+          <main class="post-page">
+            <class="post-container">
+                <img src="images/cutting.jpg" alt="post Image" class="post-img">
+                <h2 class="post-title">Metal Cutting and Fabrication Solutions with Precision</h2>
+                <p class="post-date">Posted on November 13, 2025 by Hassan Mohamed</p>
+
+                <p>
+                  At our factory, we specialize in metal manufacturing using the latest cutting technologies, including laser,
+                  plasma, and CNC. We provide fully integrated solutions in metal cutting and forming with exceptional quality
+                  and precision. Our goal is to meet the needs of clients across various industrial fields through durable
+                  products and innovative designs that stand the test of time.
+                </p>
+
+
+                <p>
+                    We offer a wide range of services tailored to your projects requirements, including laser cutting for iron up
+                    to 40mm thickness, supply and installation of steel trusses of all sizes, and the execution of complete
+                    hangar structures with outstanding strength and quality. In addition, we provide all types of steel supplies
+                    for on-site projects, ready for immediate delivery to help you save both time and effort.
+                </p>
+
+                
+                <p>
+                    With a strong commitment to speed, efficiency, and accuracy, our experienced team ensures every project is
+                    completed with the highest level of professionalism. Whether you're looking for precise laser cuts, durable
+                    steel structures, or fast delivery, we guarantee results that combine craftsmanship, reliability, and innovation
+                    — turning your industrial ideas into reality.
+                </p>
+
+                <!-- 💡 Related Posts Section -->
+                <section class="related-posts">
+                 <h3>Related Posts</h3>
+                 <div class="related-container">
+                   <div class="related-item">
+                     <img src="images/00010.gif" alt="web development">
+                     <h4>The Journey of Web Development</h4>
+                     <a href="post.html" class="btn">Read More</a>
+                   </div>
+                 </div>
+               </section>
+
+                <a href="blog.html" class="btn">← Back to Blog</a>
+              </main>
+
+
+          <!-- FOOTER -->
+  <footer>
+    <p>© 2025 Hassan Mohamed | All Rights Reserved</p>
+  </footer>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title> Single post | Hassan's Blog</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+
+        <!-- HEADER -->
+         <header>
+            <h1 class="logo">Hassan's Blog</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">about</a></li>
+                    <li><a href="blog.html">Blog</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+         </header>
+
+         <!-- SINGLE POST SECTION -->
+          <main class="post-page">
+            <class="post-container">
+                <img src="images/feather-filler-poetry-poetic.jpg" alt="post Image" class="post-img">
+                <h2 class="post-title">شعر وخواطر</h2>
+                <p class="post-date">Posted on September 9, 2025 by Hassan Mohamed</p>
+
+                <p>
+                      لَا تَشْكُ لِلنَّاسِ جُرْحًا أَنْتَ صَاحِبُهُ
+                      لا يُؤْلِمُ الجُرْحُ إلَّا مَنْ بِهِ ألَمُ
+                </p>
+
+                <p>
+                     شَكْوَاكَ لِلنَّاسِ يا ابنَ النَّاسِ مَنْقَصَةٌ
+                     وَمَنْ مِنَ النَّاسِ صَاحٍ مَا بِهِ سَقَمُ
+                </p>
+
+                <p>
+                     فالهمُّ كالسّيْلِ والأحزان زاخِرَةٌ
+                     حُمْرُ الدَّلائلِ مَهْمَا أهْلُها كَتمُوا
+                </p>
+
+                <p>
+                     فَإِنْ شَكَوْتَ لِمَنْ طَابَ الزَّمَانُ لَهُ
+                     عَيْنَاكَ تَغْلِي وَمَنْ تَشْكُو لَهُ صَنَمُ
+                </p>
+
+                <p>
+                     وَإِذَا شَكَوْتَ لِمَنْ شَكْوَاكَ تُسْعِدُهُ
+                     أَضَفْتَ جُرْحًا لِجُرْحِكَ اِسْمُهُ النَّدَمُ
+                </p>
+
+                <p>
+                 هَلِ الْمُوَاسَاةُ يَوْمًا حرَّرَتْ وَطَنا
+                 أم التّعازي بَدِيلٌ إنْ هَوَى العَلَمُ
+                </p>
+
+                <p>
+                 مَنْ يُنْدبُ الْحَظَّ يُطْفِئُ عَيْنَ هِمّتِهِ
+                 لَا عِينَ لِلَحْظِ إنْ لَمْ تُبصرِ الْهِمَمُ
+                </p>
+
+                <p>
+                 كَمْ خَابَ ظَنّي بِمنِ أهديته ثِقتَي
+                 فَأَجْبَرَتْنِي عَلَى هِجْرَانِهِ التُّهَمُ
+                </p>
+
+                <p>
+                 كَمْ صُرْتُ جِسْرًا لمَن أحببتهُ فَمَشَى
+                 عَلَى ضُلُوعِي وَكَمْ زَلَّت بِهِ قَدَمُ
+                </p>
+
+                <p>
+                 فَدَاسَ قَلْبي وَكَانَ القَلْبُ مَنْزِلهُ
+                 فَمَا وَفَائِي لخِلٍّ مَالَهُ قَيمُ
+                </p>
+
+                <p>
+                 لَا الْيَأسُ ثَوْبي وَلَا الأحزان تَكْسِرُني
+                 جُرْحَي عَنِيدٌ بلَسْعِ النَّارِ يَلْتَئِمُ
+                </p>
+
+                 <p>
+                 اِشرب دمُوعك واجْرع مُرَّهَا عَسَلًا
+                 يغزو الشُّموعَ حَريقٌ وهِيَ تَبتَسِمُ
+                </p>
+
+                <p>
+                 والْجِم هُموْمَكَ واسْرِج ظَهْرَها فَرَسًا
+                 وانهض كسيْفٍ إذا الأنصالُ تَلْتَحِمُ
+                </p>
+
+                <p>
+                 فالْخَيْرُ حَملٌ ودِيعٌ خَائِفٌ قَلقٌ
+                 وَالشَّرُّ ذِئْبٌ خَبِيثٌ مَاكِرٌ نَهِمُ
+                </p>
+
+                <p>
+                 كُنْ ذَا دَهَاءِ وَكُنِ لِصًّا بِغَيْرِ يَدٍ
+                 تَرَى الْمَلَذَّاتِ تحتَ يَدِيكَ تَزْدَحِمُ!
+                </p>
+
+                <p>
+                 فالْمَالُ وَالْجَاهُ تِمْثَالَانِ مِنْ ذَهبٍ
+                 لَهُمَا تُصلِي بِكُلِّ لُغاتِهَا الأُممُ
+                </p>
+
+                <p>
+                 شَكَوَاكَ شَكْوَايَ يَا مِن تَكْتَوِي ألْمًا
+                 ما سال دَمْعٌ عَلَى الْخَدَّيْنِ سَالَ دَمُ
+                </p>
+
+                <p>
+                 وَمِنْ سِوَى اللهِ نَأْوِي تَحْتَ سِدْرَتِهِ
+                 وَنَسْتَغِيثُ بِهِ عَوِّنَا وَنَعْتَصِمُ
+                </p>
+
+                <p>
+                 كُن فَيْلَسُوفًا ترى أنَّ الجميعَ هُنَا
+                 يتقاتلون على عَدَمٍ وهُم عَدَمُ!!
+                </p>
+
+                <!-- 💡 Related Posts Section -->
+                <section class="related-posts">
+                 <h3>Related Posts</h3>
+                 <div class="related-container">
+                   <div class="related-item">
+                     <img src="images/geography.gif" alt="Geography">
+                     <h4>How geography helps us understanding our world</h4>
+                     <a href="post6.html" class="btn">Read More</a>
+                   </div>
+                 </div>
+               </section>
+
+                
+                <a href="blog.html" class="btn">← Back to Blog</a>
+
+                <!-- COMMENTS SECTION -->
+<section class="comments">
+  <div class="comments-container">
+    <h3>Leave a Comment</h3>
+
+    <form class="comment-form">
+      <input type="text" placeholder="Your Name" required>
+      <textarea rows="4" placeholder="Your Comment" required></textarea>
+      <button type="submit" class="btn">Post Comment</button>
+    </form>
+
+    <div class="comment-list">
+      <h4>Recent Comments</h4>
+
+      <div class="comment">
+        <p class="comment-name"><strong>محمدالعابد</strong></p>
+        <p class="comment-text">هذه الأبيات تلامس القلب وتذكرنا بأن أقوى الناس هم الذين يخفون جراحهم بابتسامة.</p>
+      </div>
+
+      <div class="comment">
+        <p class="comment-name"><strong>ليلى عبدالكريم</strong></p>
+        <p class="comment-text">كلمات مؤثرة وحكيمة. أحببت رسالتها العميقة عن الصبر والاعتماد على النفس. فعلًا شعر كريم العراقي يترك أثراً لا يُنسى</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+          <!-- FOOTER -->
+  <footer>
+    <p>© 2025 Hassan Mohamed | All Rights Reserved</p>
+  </footer>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title> Single post | Hassan's Blog</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+
+        <!-- HEADER -->
+         <header>
+            <h1 class="logo">Hassan's Blog</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">about</a></li>
+                    <li><a href="blog.html">Blog</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+         </header>
+
+         <!-- SINGLE POST SECTION -->
+          <main class="post-page">
+            <class="post-container">
+                <img src="images/geo2.jpg" alt="post Image" class="post-img">
+                <h2 class="post-title">Geography - Understanding Our world</h2>
+                <p class="post-date">Posted on November 15, 2025 by Hassan Mohamed</p>
+
+                <p>Hi there🙂</p>
+
+                <p>Today,I'd like to talk about geography, a subject that helps us understand the world we live in.</p>
+                  <p>
+                      Geography is more than just maps and mountains. it teach us how why people, places, and environments are connected.
+                      it explains why desserts are dry, why some countries are rich in resources, and why others face droughts and floods.
+                      Geography give us a global views - it helps us see the bigger.
+                 </p>
+                  
+
+                <p>
+                  In today's world, where countries and cultures are linked more than ever, geography plays a vital role. it helps us understand 
+                  climate change, migration, and global trade. For example when we learn how oceans affect weather patterns, we begin to understand 
+                  why one region faces storms while another faces heat waves.
+
+                  Geography also builds awareness and responsibility. when we study how humans shape the earth - cutting forests, building cities, or
+                  using natural resources - we realize how our actions affect the planet. it teach us that protecting the earth is not just a scientific 
+                  task, but a moral duty.
+                </p>
+
+                <p>
+                  In short, geography opens our eyes to how everything is connected. -- people, nature, and environment. it reminds us that no matter where
+                  we come from, we all share the same planet.
+                </p>
+
+                <P>sincerely: Hassan Mohamed Hassan</P>
+
+                                <!-- 💡 Related Posts Section -->
+                <section class="related-posts">
+                 <h3>Related Posts</h3>
+                 <div class="related-container">
+                   <div class="related-item">
+                     <img src="images/22.jpg" alt="The Power Of Reading">
+                     <h4>The Power Of Reading</h4>
+                     <a href="post2.html" class="btn">Read More</a>
+                   </div>
+                 </div>
+               </section>
+
+
+                <a href="blog.html" class="btn">← Back to Blog</a>
+
+                <!-- COMMENTS SECTION -->
+<section class="comments">
+  <div class="comments-container">
+    <h3>Leave a Comment</h3>
+
+    <form class="comment-form">
+      <input type="text" placeholder="Your Name" required>
+      <textarea rows="4" placeholder="Your Comment" required></textarea>
+      <button type="submit" class="btn">Post Comment</button>
+    </form>
+
+    <div class="comment-list">
+      <h4>Recent Comments</h4>
+
+      <div class="comment">
+        <p class="comment-name"><strong>Sarah Mitchel:</strong></p>
+        <p class="comment-text">This was such a clear and inspiring explanation of why geography matters. I love how you connected nature, people, and global challenges in such a simple way</p>
+      </div>
+
+      <div class="comment">
+        <p class="comment-name"><strong>Daniel Reyes:</strong></p>
+        <p class="comment-text">Great read! Your writing makes geography feel alive and meaningful. It really shows how understanding our world helps us understand ourselves too..</p>
+      </div>
+
+      <div class="comment">
+        <p class="comment-name"><strong>Amina El-Sayed:</strong></p>
+        <p class="comment-text">Beautifully written. I enjoyed how you explained the connection between environments and cultures. This post made me appreciate the world from a new perspective.</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+          <!-- FOOTER -->
+  <footer>
+    <p>© 2025 Hassan Mohamed | All Rights Reserved</p>
+  </footer>
+
+</body>
+</html>
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: "Poppins", sans-serif;
+  color: #333;
+  background: #f9f9f9;
+}
+
+/* HEADER */
+header {
+  background: #222;
+  color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 40px;
+}
+.logo { font-size: 1.5em; }
+header ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+header a {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  font-weight: 500;
+}
+header a:hover, .active {
+  color: #ff6600;
+}
+
+/* HERO */
+.hero {
+  text-align: center;
+  background: url('images/ba2.jpg') center/cover no-repeat;
+  color: rgb(255, 255, 255);
+  padding: 120px 20px;
+}
+.hero h2 {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+}
+.btn {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 20px;
+  background: #ff6600;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+}
+.btn:hover { background: #e55c00; }
+
+.about {
+  padding: 60px 20px;
+  background: white;
+}
+
+.about .container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.about-img {
+  width: 300px;
+  border-radius: 10px;
+}
+
+.about-text {
+  max-width: 600px;
+}
+
+.about-text h2 {
+  color: #ff6600;
+  margin-bottom: 15px;
+}
+
+.about-text p {
+  margin-bottom: 10px;
+  line-height: 1.6;
+}
+
+.blog {
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.blog-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+  margin-top: 30px;
+}
+
+.blog-card {
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  padding: 15px;
+  transition: transform 0.3s;
+}
+.blog-card:hover {
+  transform: translateY(-5px);
+}
+.blog-card img {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+.blog-card h3 {
+  color: #333;
+  margin-bottom: 10px;
+}
+.blog-card p {
+  color: #555;
+  font-size: 0.95em;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+.contact {
+  text-align: center;
+  padding: 60px 20px;
+}
+.contact form {
+  max-width: 500px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.contact input,
+.contact textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 1em;
+}
+.contact button {
+  background: #ff6600;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.contact button:hover {
+  background: #e55c00;
+}
+
+.post {
+  padding: 60px 20px;
+  background: white;
+}
+
+.post-container {
+  max-width: 800px;
+  margin: auto;
+}
+
+.post-img {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.post-title {
+  color: #ff6600;
+  margin-bottom: 10px;
+}
+
+.post-date {
+  color: hsl(244, 13%, 57%);
+  font-size: 0.9em;
+  margin-bottom: 20px;
+}
+
+.post p {
+  line-height: 1.7;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+/* COMMENTS SECTION */
+.comments {
+  background: #f9f9f9;
+  padding: 50px 20px;
+  margin-top: 40px;
+}
+
+.comments-container {
+  max-width: 800px;
+  margin: auto;
+}
+
+.comments h3 {
+  color: #ff6600;
+  margin-bottom: 20px;
+}
+
+.comment-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 30px;
+}
+
+.comment-form input,
+.comment-form textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 1em;
+}
+
+.comment-form button {
+  align-self: flex-start;
+  background: #ff6600;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.comment-form button:hover {
+  background: #e55c00;
+}
+
+.comment-list h4 {
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.comment {
+  background: white;
+  border-radius: 8px;
+  padding: 10px 15px;
+  margin-bottom: 10px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.comment-name {
+  color: #ff6600;
+  font-weight: bold;
+}
+
+.comment-text {
+  color: #555;
+  margin-top: 5px;
+  line-height: 1.5;
+}
+
+.related-posts {
+  margin-top: 40px;
+}
+
+.related-posts h3 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.related-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.related-item {
+  width: 250px;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.related-item img {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.related-item h4 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+ 
+/* FOOTER */
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #222;
+  color: white;
+  margin-top: 50px;
+}
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
+  header {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
+.search-bar {
+  margin: 20px auto;
+  text-align: center;
+}
+
+.search-bar input {
+  width: 70%;
+  max-width: 500px;
+  padding: 12px 15px;
+  font-size: 16px;
+  border: 2px solid #ddd;
+  border-radius: 10px;
+  outline: none;
+  transition: 0.3s;
+}
+
+.search-bar input:focus {
+  border-color: #333;
+  box-shadow: 0 0 5px rgba(0,0,0,0.2);
+}
